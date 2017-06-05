@@ -2,7 +2,7 @@
 my first test repository
 
 
-ala bala nica
+ala bala n
 turska panica
 hei gi di vanco 
 nas kalpazanco
